@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-openai
+openai
+fastapi
+uvicorn
+python-dotenv
+google-search-results
+fpdf2               
+pandas
+firebase-admin
+requests
+openpyxl
+PyMuPDF
+tiktoken                
